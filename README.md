@@ -1,4 +1,4 @@
 # hello-world
 My first repository.
 
-Some text, tell a bit about yourself.
+I'm learning what this all does at the mo!
